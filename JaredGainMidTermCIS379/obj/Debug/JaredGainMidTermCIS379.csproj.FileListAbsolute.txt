@@ -1,0 +1,9 @@
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\bin\Debug\JaredGainMidTermCIS379.exe.config
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.csprojResolveAssemblyReference.cache
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.Form1.resources
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.Properties.Resources.resources
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.csproj.GenerateResource.Cache
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\bin\Debug\JaredGainMidTermCIS379.exe
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\bin\Debug\JaredGainMidTermCIS379.pdb
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.exe
+E:\CIS397\TEST1\JaredGainMidTermCIS379\JaredGainMidTermCIS379\obj\Debug\JaredGainMidTermCIS379.pdb
